@@ -1,14 +1,14 @@
 {
-    "name": "Feature Extraction",
+    "name": "Feature Extraction 3d",
     "version": "1.0.0",
-    "title": "Feature Extraction",
+    "title": "Feature Extraction 3d",
     "description": "Extract shape and intensity features from images.",
     "author": "Jayapriya Nagarajan (jayapriya.nagarajan@nih.gov)",
     "institution": "National Center for Advancing Translational Sciences, National Institutes of Health",
     "repository": "https://github.com/labshare/polus-plugins",
     "website": "https://ncats.nih.gov/preclinical/core/informatics",
     "citation": "",
-    "containerId": "labshare/polus-feature-extraction-plugin:1.0.0",
+    "containerId": "labshare/polus-feature-extraction-3d-plugin:1.0.0",
     "inputs": [      
       {
         "name": "segDir",
